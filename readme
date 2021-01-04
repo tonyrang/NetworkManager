@@ -1,3 +1,4 @@
+relink: https://shaocheng.li/posts/2016/10/13/
 nmcli d wifi connect iKuai 
 nmcli device wifi hotspot ifname wlan1 con-name localhost ssid  localhost password 112345678
 nmcli connection delete iKuai
